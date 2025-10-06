@@ -1,6 +1,6 @@
 # Blog Service Documentation
 
-📘 **BLOG-SERVICE-KIRAN**  
+📘 **BLOG-SERVICE-Mahidhar**  
 A simple and secure Spring Boot application for managing blog posts. It supports public viewing of blogs and authenticated CRUD operations using form login, Google OAuth2, and GitHub OAuth2. Built with love using Spring Boot, H2 database, and enhanced with Swagger for API documentation. Tested via Postman.
 
 ## Table of Contents
